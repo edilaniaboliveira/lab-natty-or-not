@@ -11,7 +11,8 @@ Projeto com o objetivo de gerar conteúdo facilidades das ferramentas de IA. Tod
 ### Template
 
 ## 📒 Descrição
-Projeto consiste em gerar um vídeo usando IA em todo o processo.
+
+Este projeto teve como objetivo explorar e integrar tecnologias de ponta para a criação de conteúdo multimídia de alta qualidade e relevância. Utilizando ferramentas de IA.
 
 ## 👩‍💻 Tecnologias utilizadas no projeto
 
