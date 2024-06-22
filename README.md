@@ -6,7 +6,7 @@
 
  >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
 
-Projeto com o objetivo de gerar conteúdo facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
+Projeto com o objetivo de gerar conteúdo com facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
 
 ### Template
 
