@@ -1,51 +1,57 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
+# Projeto EBOOK Gerado por I.A.s
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+ >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Projeto com o objetivo de gerar conteúdo facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto consiste em gerar um vídeo usando IA em todo o processo.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 👩‍💻 Tecnologias utilizadas no projeto
+
+
+- [ChatGPT](https://chat.openai.com/) 
+- [Elevenlabs](https://elevenlabs.io/)
+- [d-id](https://www.d-id.com/creative-reality-studio/)
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Passo 1: Identificação de Temas com o ChatGPT
+
+- Utilização do ChatGPT para analisar e elencar temas de maior evidência global.
+- Essencial para direcionar o foco do projeto com base em dados atuais e relevantes.
+
+Passo 2: Definição de Objetivo e Tema
+
+- Escolha clara e precisa do objetivo final do projeto e do tema a ser explorado.
+- Garantia de alinhamento estratégico desde o início do processo.
+
+Passo 3: Geração de Conteúdo com o ChatGPT
+
+- Criação de um prompt para gerar um texto extenso com 5000 caracteres sobre o tema escolhido.
+- O ChatGPT proporcionou um conteúdo robusto e informativo, embasado em análises detalhadas.
+
+Passo 4: Utilização do Elevenlabs
+
+- Transformação do texto gerado em fala através do Elevenlabs.
+- Escolha cuidadosa da voz do locutor para melhorar a experiência auditiva do público-alvo.
+
+Passo 5: Criação de Vídeo com d-id
+
+- Seleção de um avatar adequado para representar o conteúdo e a mensagem do projeto.
+- Integração do áudio produzido pelo Elevenlabs com o avatar selecionado, resultando em um vídeo finalizado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+ O uso integrado dessas tecnologias permitiu alcançar um resultado final que não só cumpriu, mas também superou as expectativas em termos de qualidade e impacto.
 
-### Exemplos e Insigths
+Em resumo, a sinergia entre ChatGPT, Elevenlabs e d-id possibilitou a criação de um projeto robusto, inovador e eficaz, capaz de comunicar de forma clara e envolvente os temas escolhidos, com resultados tangíveis e mensuráveis.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
