@@ -8,7 +8,6 @@
 
 Projeto com o objetivo de gerar conteúdo com facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
 
-### Template
 
 ## 📒 Descrição
 
