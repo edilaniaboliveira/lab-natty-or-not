@@ -59,7 +59,7 @@ Em resumo, a sinergia entre ChatGPT, Elevenlabs e d-id possibilitou a criação 
 ## 📚🖋️ Materiais
 
 - Audio gerado com ElevenLabs e o  Vídeo criado com o d-id estão disponíveis em : `resultados`
--Foi preciso usa o [Veed] (https://www.veed.io/) para compactar o vídeo devido ao tamanho ultrapassar o máximo permitido
+- Foi preciso usa o [Veed](https://www.veed.io/) para compactar o vídeo devido ao tamanho ultrapassar o máximo permitido
 
 ## 🔗 Redes Sociais e Contato
 
