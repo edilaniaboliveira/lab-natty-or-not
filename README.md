@@ -20,6 +20,7 @@ Este projeto teve como objetivo explorar e integrar tecnologias de ponta para a 
 - [ChatGPT](https://chat.openai.com/) 
 - [Elevenlabs](https://elevenlabs.io/)
 - [d-id](https://www.d-id.com/creative-reality-studio/)
+- [Veed](https://www.veed.io/)
 
 
 ## 🧐 Processo de Criação
@@ -54,5 +55,23 @@ Passo 5: Criação de Vídeo com d-id
  O uso integrado dessas tecnologias permitiu alcançar um resultado final que não só cumpriu, mas também superou as expectativas em termos de qualidade e impacto.
 
 Em resumo, a sinergia entre ChatGPT, Elevenlabs e d-id possibilitou a criação de um projeto robusto, inovador e eficaz, capaz de comunicar de forma clara e envolvente os temas escolhidos, com resultados tangíveis e mensuráveis.
+
+## 📚🖋️ Materiais
+
+- Audio gerado com ElevenLabs e o  Vídeo criado com o d-id estão disponíveis em : `resultados`
+-Foi preciso usa o [Veed] (https://www.veed.io/) para compactar o vídeo devido ao tamanho ultrapassar o máximo permitido
+
+## 🔗 Redes Sociais e Contato
+
+- [LinkedIn](https://www.linkedin.com/in/edilania-barbosa-de-oliveira-b4b4861b6/)
+- [GitHub](https://github.com/edilaniaboliveira)
+- [Instagram](https://www.instagram.com/edilaniaboliveira/)
+
+Sinta-se à vontade para me seguir nas redes sociais para mais atualizações sobre este projeto e outros trabalhos relacionados!
+
+
+
+
+
 
 
